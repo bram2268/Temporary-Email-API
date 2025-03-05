@@ -1,4 +1,4 @@
-# Tmporary Email API
+# Temporary Email API
 API Endpoint for Tempinbox.xyz - Free Temp Mail Service API
 
 The following endpoints are available for interacting with the Tempinbox API.
